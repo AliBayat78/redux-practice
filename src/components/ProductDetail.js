@@ -26,7 +26,6 @@ const ProductDetail = () => {
     }
   }, [productId])
 
-  // kk
 
   return (
     <div className="ui grid container">
